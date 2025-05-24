@@ -69,5 +69,14 @@ NEWS_API_KEY=your_api_key_here
 ### 3. Build & Run
 ./gradlew clean build
 or from Android Studio: Run > app
+```
 
 
+## ✨ Potential Future Enhancements
+	•	🧩 Pagination support for large result sets
+	•	🌐 Query filters (e.g., country, language, source)
+	•	🗓️ Date picker for custom ranges
+	•	🔎 Search within news results
+	•	📥 Download & save articles
+	•	🛠️ Dark theme support
+	•	🧪 UI tests and repository mocking
