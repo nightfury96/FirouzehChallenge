@@ -26,7 +26,6 @@ A modern Android news application built for the **Firouzeh Android Challenge**. 
     - Author and source
     - Human-readable date
 - 🗂️ Caches articles using **Room** for offline viewing
-- 🔃 Supports **swipe-to-refresh**
 - 📦 Fully modular and Clean Architecture:
     - `domain`, `data`, `presentation`, `app`
 
