@@ -36,9 +36,13 @@ A modern Android news application built for the **Firouzeh Android Challenge**. 
 
 ### Clean + Modular
 firouzehnews/
+
 ├── app/              # MainActivity, Hilt setup, entry point
+
 ├── domain/           # Entities, interfaces, use cases (no frameworks)
+
 ├── data/             # Retrofit, Room, repository implementations
+
 ├── presentation/     # ViewModel, Compose UI, Navigation, Theme
 
 ### Key Libraries
